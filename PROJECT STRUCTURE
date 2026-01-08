@@ -1,0 +1,16 @@
+capstone-project/
+│
+├── backend/
+│   ├── main.py
+│   ├── model.py
+│   ├── schema.py
+│   ├── utils.py
+│   ├── requirements.txt
+│   └── models/
+│       └── production_model.pkl
+│
+├── frontend/
+│   ├── app.py
+│   └── requirements.txt
+│
+└── README.md
